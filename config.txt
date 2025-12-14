@@ -30,13 +30,13 @@ palette=2=#85C64C
 palette=3=#F5AE2E
 
 # blue
-palette=4=#136498
+palette=4=#009AC9
 
 # magenta
-palette=5=#D0623D
+palette=5=#CE408C
 
 # cyan
-palette=6=#507E52
+palette=6=#6CAEAA
 
 # white
 palette=7=#E5C6AA
@@ -57,10 +57,10 @@ palette=11=#E0D561
 palette=12=#5FDBFF
 
 # bright magenta
-palette=13=#FF9269
+palette=13=#E789BB
 
 # bright cyan
-palette=14=#84F088
+palette=14=#95E6E0
 
 # bright white
 palette=15=#F6F7EC
