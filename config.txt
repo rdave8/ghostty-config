@@ -9,7 +9,7 @@ fullscreen=true
 # -----------
 
 font-family="Berkeley Mono Variable"
-font-size=20
+font-size=22
 
 # -----------
 # color theme
