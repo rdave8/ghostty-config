@@ -1,0 +1,66 @@
+# -----------
+# general
+# -----------
+
+fullscreen=true
+
+# -----------
+# font
+# -----------
+
+font-size=20
+
+# -----------
+# color theme
+# -----------
+
+background=#6F4E37
+foreground=#E9D9B8
+
+# black
+palette=0=#111416
+
+# red
+palette=1=#C94334
+
+# green
+palette=2=#85C64C
+
+# yellow
+palette=3=#F5AE2E
+
+# blue
+palette=4=#136498
+
+# magenta
+palette=5=#D0623D
+
+# cyan
+palette=6=#507E52
+
+# white
+palette=7=#E5C6AA
+
+# bright black
+palette=8=#67605F
+
+# bright red
+palette=9=#FF6464
+
+# bright green
+palette=10=#98E037
+
+# bright yellow
+palette=11=#E0D561
+
+# bright blue
+palette=12=#5FDBFF
+
+# bright magenta
+palette=13=#FF9269
+
+# bright cyan
+palette=14=#84F088
+
+# bright white
+palette=15=#F6F7EC
