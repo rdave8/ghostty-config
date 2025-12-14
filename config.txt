@@ -8,6 +8,7 @@ fullscreen=true
 # font
 # -----------
 
+font-family="Berkeley Mono Variable"
 font-size=20
 
 # -----------
