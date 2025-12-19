@@ -22,7 +22,7 @@ foreground=#E9D9B8
 palette=0=#111416
 
 # red
-palette=1=#C94334
+palette=1=#ED3B28
 
 # green
 palette=2=#85C64C
@@ -46,7 +46,7 @@ palette=7=#E5C6AA
 palette=8=#67605F
 
 # bright red
-palette=9=#FF6464
+palette=9=#FF4733
 
 # bright green
 palette=10=#98E037
